@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://mstouffer.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mark Stouffer Web Content"
 theme = "blackburn"
 
 [indexes]
@@ -9,7 +9,7 @@ theme = "blackburn"
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
+  subtitle = "An index of my web content"
   brand = "Blackburn"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
@@ -57,9 +57,9 @@ theme = "blackburn"
   # by entering your username or ID.
 
   # SNS microblogging
-  twitter = "*"
+  twitter = "valuecritic"
   gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
-  facebook = "*"
+  facebook = "markstouffer2"
   googleplus = "*"
   weibo = "*"
   tumblr = "*"

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Web Content on Mark Stouffer Web Content</title>
+    <link>https://mstouffer.com/</link>
+    <description>Recent content in My Web Content on Mark Stouffer Web Content</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mstouffer.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
