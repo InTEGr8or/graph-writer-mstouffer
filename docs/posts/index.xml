@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mark Stouffer Web Content</title>
+    <link>https://mstouffer.com/posts/</link>
+    <description>Recent content in Posts on Mark Stouffer Web Content</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 May 2021 17:29:43 -0700</lastBuildDate><atom:link href="https://mstouffer.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Sharing Network</title>
+      <link>https://mstouffer.com/posts/content-sharing-network/</link>
+      <pubDate>Sun, 23 May 2021 17:29:43 -0700</pubDate>
+      
+      <guid>https://mstouffer.com/posts/content-sharing-network/</guid>
+      <description>Content Sharing Network Let&amp;rsquo;s create a local-first content sharing network.</description>
+    </item>
+    
+  </channel>
+</rss>
