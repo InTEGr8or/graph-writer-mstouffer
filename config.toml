@@ -2,6 +2,9 @@ baseURL = "https://mstouffer.com/"
 languageCode = "en-us"
 title = "Mark Stouffer Web Content"
 theme = "blackburn"
+publishDir = "docs"
+googleAnalytics = "UA-115076488-1"
+amazonAssociateTrackingId = "mobilea0dbe49-20"
 
 [indexes]
   tag = "tags"
